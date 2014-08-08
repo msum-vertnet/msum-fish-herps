@@ -1,0 +1,121 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 245
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Romania ; Times: 2
+	Country: United States ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-02 ; Times: 2
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-11 ; Times: 9
+	Date: 2014-07-15 ; Times: 1
+	Date: 2014-07-18 ; Times: 1
+	Date: 2014-07-19 ; Times: 1
+	Date: 2014-07-20 ; Times: 2
+	Date: 2014-07-25 ; Times: 2
+	Date: 2014-07-28 ; Times: 8
+	Date: 2014-07-29 ; Times: 3
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "amia calva michigan" ; Times: 1
+	Query: "institutioncode:MSUM" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Terrapene ornata year >= 1960 year <= 1965" ; Times: 2
+	Query: "Ctenosaura pectinata (Skeleton)" ; Times: 1
+	Query: "Uromastyx (skeleton)" ; Times: 7
+	Query: "Vipera ursinii" ; Times: 2
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "leporinus jatuncochi institutioncode:msum" ; Times: 1
+	Query: "stateprovince:"Stann Creek" country:"Belize" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 1
+	Query: "vipera ursinii" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "eleutherodactylus altae" ; Times: 2
+	Query: "Vipera berus" ; Times: 1
+	Query: "laura russell" ; Times: 1
+	Query: "stateprovince:"Sinaloa" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "sanzinia" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+	Query: "rhinoderma" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 437 download events in this period)
+Total number of records downloaded: 2394 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2249
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 10
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-15 ; Times: 9
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-29 ; Times: 1
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 376
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 2403
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 56
+Total number of records retrieved from searches: 376
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 2403
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
