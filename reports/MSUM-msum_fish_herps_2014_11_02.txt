@@ -1,0 +1,102 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 22
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-12 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-18 ; Times: 3
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-22 ; Times: 10
+	Date: 2014-10-23 ; Times: 3
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-27 ; Times: 1
+	Date: 2014-10-29 ; Times: 13
+	Date: 2014-10-30 ; Times: 1
+	Date: 2014-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Conopsis biserialis" ; Times: 8
+	Query: "Staurotypus triporcatus" ; Times: 3
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 3
+	Query: "Conopsis nasus" ; Times: 5
+	Query: "astroblepus" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 2
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "county:"Comanche" stateprovince:"texas"" ; Times: 1
+	Query: "thamnophis melanogaster" ; Times: 3
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "elaphe vulpina illinois" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 1
+	Query: "molossus (mexico) AND (guerrero)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 166 download events in this period)
+Total number of records downloaded: 945 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 945
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 2
+	Date: 2014-10-23 ; Times: 2
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "malacochersus tornieri" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 171
+Total number of records retrieved from searches: 1069
+Number of download events that retrieved data from the resource: 70
+Total number of records downloaded: 11226
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 171
+Total number of records retrieved from searches: 1069
+Number of download events that retrieved data from the resource: 70
+Total number of records downloaded: 11226
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
