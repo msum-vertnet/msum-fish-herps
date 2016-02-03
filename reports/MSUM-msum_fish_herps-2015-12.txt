@@ -1,0 +1,160 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: Serbia ; Times: 3
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-20 ; Times: 4
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 3
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 12
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-25 ; Times: 3
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-13 ; Times: 4
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fulvius class:Reptilia county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "crotalus veracruz" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Ecuador&#34;" ; Times: 5
+	Query: "Opheodrys vernalis west virginia" ; Times: 1
+	Query: "ophisaurus apodus" ; Times: 3
+	Query: "class:Amphibia county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "emys orbicularis" ; Times: 1
+	Query: "lampropeltis ruthveni" ; Times: 1
+	Query: "family:Hylidae class:Amphibia county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "phyllorhynchus browni arizona" ; Times: 3
+	Query: "rana montezumae" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "hyperolius sudan" ; Times: 2
+	Query: "salvadora mexicana" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Crotalus pricei and Arizona" ; Times: 2
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "class:amphibia county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "tigrinum maryland" ; Times: 6
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:alleni genus:Regina class:Reptilia county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "picta marginata west virginia" ; Times: 1
+	Query: "Elaphe scalaris" ; Times: 1
+	Query: "crocodilus acutus" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;Hidalgo&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 889 download events in this period)
+Total number of records downloaded: 2809
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-17 ; Times: 11
+	Date: 2015-12-03 ; Times: 4
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 3
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-18 ; Times: 17
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Epicrates inornatus" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Sceloporus squamosus" ; Times: 1
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Leptodeira punctata" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Sceloporus cozumelae" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Sceloporus cautus" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Sceloporus slevini" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+
+
+End of report.
