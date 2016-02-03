@@ -1,0 +1,222 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 373
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: Azerbaijan ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 2
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 5
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gopherus m" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "rhadinaea gaigeae" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "baku" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "family:Colubridae county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:hyla stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "eumeces michigan" ; Times: 1
+	Query: "Rana montezumae" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops country:&#34;Panama&#34;" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Bolitoglossa mexicana stateprovince:Chiapas" ; Times: 1
+	Query: "genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Eleutherodactylus laticeps" ; Times: 1
+	Query: "Salvadora bairdi" ; Times: 1
+	Query: "Iguana iguana oaxaca" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Zacatecas&#34;" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "macroclemys stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lampropeltis" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "ambystoma maculatum wisconsin" ; Times: 1
+	Query: "rana macroglossa" ; Times: 2
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "genus:Coluber stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Agalychnis callidryas oaxaca" ; Times: 4
+	Query: "genus:Storeria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Malayemys" ; Times: 2
+	Query: "Rhadinaea gaigeae" ; Times: 3
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Storeria storerioides" ; Times: 1
+	Query: "preparations:skull genus:iguana specificepithet:iguana" ; Times: 1
+	Query: "eumeces fasciatus michigan" ; Times: 2
+	Query: "Rhadinaea Florida" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "pseudotriton montanus south carolina" ; Times: 1
+	Query: "genus:Lampropeltis family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "elapidae state of mexico" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "heterodon marion" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 823 download events in this period)
+Total number of records downloaded: 4326
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 62
+	Country: Mexico ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 6
+	Date: 2015-10-22 ; Times: 3
+	Date: 2015-10-21 ; Times: 9
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "Black Gap class:Amphibia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Phrynosoma platyrhinos stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Agalychnis callidryas oaxaca" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "thamnophis radix" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Black Gap class:Reptilia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Cnemidophorus tesselatus" ; Times: 2
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
