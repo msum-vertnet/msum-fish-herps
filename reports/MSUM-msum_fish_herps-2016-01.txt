@@ -1,0 +1,168 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-07 ; Times: 6
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-24 ; Times: 11
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "sailfish" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "insculpta maryland" ; Times: 3
+	Query: "Coniophanes meridanus" ; Times: 1
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "order:Squamata locality:Jitotol stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 2
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 7
+	Query: "vipera ursinii" ; Times: 1
+	Query: "gloydi" ; Times: 1
+	Query: "Bolitoglossa platydactyla stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "type:specimen specificepithet:subocularis genus:elaphe" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "type:specimen specificepithet:triaspis genus:elaphe" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "Rana sierramadrensis" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 2
+	Query: "clonophis" ; Times: 1
+	Query: "order:Caudata locality:Jitotol stateprovince:&#34;Chiapas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 507 download events in this period)
+Total number of records downloaded: 12853
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-03 ; Times: 15
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "sagrei" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
