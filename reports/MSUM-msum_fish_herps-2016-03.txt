@@ -1,0 +1,85 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 8
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Plectrohyla matudai Chiapas" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:2238" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "bufo punctatus inyo county" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 1
+	Query: "Ophisaurus ceroni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 230 download events in this period)
+Total number of records downloaded: 785
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
