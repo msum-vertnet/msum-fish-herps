@@ -1,0 +1,324 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1521
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 82
+	Country: Germany ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 13
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 12
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 8
+	Date: 2016-04-10 ; Times: 5
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 8
+	Date: 2016-04-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "kassina preparations:SKELETON" ; Times: 2
+	Query: "class:Reptilia county:&#34;bond&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 3
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "order:squamata county:&#34;burleson&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Callisaurus draconoides Sinaloa" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "melanosuchus niger" ; Times: 1
+	Query: "viperidae belize" ; Times: 1
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "O. Howard AND San Miguel" ; Times: 1
+	Query: "Ophisaurus ceroni" ; Times: 1
+	Query: "Pituophis melanoleucus Sinaloa" ; Times: 1
+	Query: "country:&#34;kenya&#34; institutioncode:MSUM" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 2
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "kinosternon subrubrum steindachneri" ; Times: 1
+	Query: "lacerta country:&#34;ukraine&#34;" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "class:Reptilia county:&#34;Fayette&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 2
+	Query: "genus:Clonophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "squamata order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "O. Howard AND San Clemente" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "class:Reptilia county:&#34;Randolph&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Elaphe schrenki" ; Times: 1
+	Query: "coronella austriaca" ; Times: 3
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 3
+	Query: "Claudius angustatus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tropidophiidae and cuba" ; Times: 1
+	Query: "institutioncode:MSUM" ; Times: 7
+	Query: "class:Reptilia county:&#34;Mason&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Elaphe dione" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "kinixys homeana" ; Times: 2
+	Query: "elaphe schrenki" ; Times: 1
+	Query: "Kinixys" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+	Query: "order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "specificepithet:undulatus county:&#34;Covington&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Scincidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Anura type:specimen (skeleton kenya)" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "clonophis" ; Times: 3
+	Query: "coleonyx variegatus abbotti" ; Times: 2
+	Query: "class:Reptilia county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 183 (out of 1312 download events in this period)
+Total number of records downloaded: 10340
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 136
+	Country: United States ; Times: 27
+	Country: United Arab Emirates ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-23 ; Times: 9
+	Date: 2016-04-22 ; Times: 72
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-26 ; Times: 9
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 43
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "ANACANTHOBATIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "micrurus elegans" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "PERISTEDIIDAE" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+
+
+End of report.
