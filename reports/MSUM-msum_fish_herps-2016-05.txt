@@ -1,0 +1,147 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 108
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 4
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pima county chionactis" ; Times: 1
+	Query: "class:reptilia county:&#34;washtenaw&#34; AND (NOT storeria NOT thamnophis NOT nerodia NOT sternotherus NOT chrysemys) year &gt;= 1960" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "specificepithet:butleri genus:thamnophis county:&#34;Wayne&#34;" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "Elaphe vulpina illinois" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "thamnophis sirtalis (nebraska)" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "Python reticulatus" ; Times: 1
+	Query: "vernalis west virginia" ; Times: 1
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 2
+	Query: "Tantilla coronata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "tropidophiidae" ; Times: 1
+	Query: "Liolaemus puna" ; Times: 1
+	Query: "crotalus horridus maryland" ; Times: 2
+	Query: "Thamnophis butleri county:&#34;Wayne&#34;" ; Times: 2
+	Query: "Storeria occipitomaculata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "Eleutherodactylus tarahumaraensis" ; Times: 1
+	Query: "genus:storeria county:&#34;wayne&#34;" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides veracruz" ; Times: 1
+	Query: "heloderma horridum" ; Times: 5
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "CROCODYLUS MORELETII" ; Times: 3
+	Query: "Anguis" ; Times: 4
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "msu 4165" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "python molurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 327 download events in this period)
+Total number of records downloaded: 997
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 36
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 6
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 22
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kinosternon sonoriense" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "Python reticulatus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Aristelliger institutioncode:MSUM" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Rimator" ; Times: 1
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
