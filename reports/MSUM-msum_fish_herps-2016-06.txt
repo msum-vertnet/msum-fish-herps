@@ -1,0 +1,240 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 1804
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Argentina ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 14
+	Date: 2016-06-24 ; Times: 4
+	Date: 2016-06-09 ; Times: 9
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-07 ; Times: 8
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-03 ; Times: 15
+	Date: 2016-06-02 ; Times: 15
+	Date: 2016-06-23 ; Times: 13
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vernalis iowa" ; Times: 4
+	Query: "(Sistrurus miliarius texas)" ; Times: 1
+	Query: "Crotalus atrox zacatecas" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Notophthalmus county:&#34;Luce&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "chiquibul" ; Times: 1
+	Query: "gecko type:specimen institutioncode:MSUM" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Notophthalmus county:&#34;Chippewa&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "type:specimen genus:anolis country:&#34;puerto rico&#34; institutioncode:MSUM" ; Times: 1
+	Query: "Necturus stateprovince:&#34;Michigan&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Sistrurus miliarius Texas" ; Times: 1
+	Query: "Reptilia 14056" ; Times: 2
+	Query: "Phrynops gibbus" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 4
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "Reptilia illinois cass" ; Times: 2
+	Query: "genus:holbrookia class:Reptilia county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "type:specimen genus:anolis country:&#34;jamaica&#34; institutioncode:MSUM" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 4
+	Query: "specificepithet:septentrionalis family:Scincidae class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Necturus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "sistrurus miliarius Texas" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 1
+	Query: "genus:anolis institutioncode:MSUM" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "holbrookia maricopa" ; Times: 2
+	Query: "Geochelone gigantea" ; Times: 2
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "Python molurus " ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "type:specimen genus:phelsuma institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:fulvius county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Notophthalmus county:&#34;Schoolcraft&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "lichanura county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "type:specimen genus:anolis institutioncode:MSUM" ; Times: 8
+	Query: "14352" ; Times: 1
+	Query: "county:&#34;Tompkins&#34; stateprovince:&#34;New York&#34; (Hemidactylium)" ; Times: 1
+	Query: "pleurodema tucumanum" ; Times: 1
+	Query: "Crotalus pricei stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 6
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "maculata zacatecas" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "genus:anolis country:&#34;jamaica&#34; institutioncode:MSUM" ; Times: 2
+	Query: "ambystoma tigrinum maryland" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "genus:phrynosoma class:Reptilia county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34; AND (NOT KU)" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "bothrops quintana" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "type:specimen institutioncode:MSUM" ; Times: 1
+	Query: "(sistrurus miliarius texas)" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "specificepithet:horridum genus:heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Notophthalmus county:&#34;Ontonagon&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "atrox zacatecas" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Taney&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 1
+	Query: "genus:anolis country:&#34;puerto rico&#34; institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "Gopherus berlandieri" ; Times: 3
+	Query: "Tropiduridae 1" ; Times: 4
+	Query: "Chinemys" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Siebenrockiella" ; Times: 2
+	Query: "Reptilia 2490" ; Times: 1
+	Query: "Notophthalmus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "type:specimen genus:hemidactylus institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 1052 download events in this period)
+Total number of records downloaded: 3886
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: India ; Times: 1
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 12
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 8
+	Date: 2016-06-16 ; Times: 9
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-07 ; Times: 8
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-13 ; Times: 9
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 14
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon cinereus maine" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "crotalus (county: san bernardino)" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "iguana" ; Times: 1
+	Query: "agkistrodon contortrix laticinctus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "pleurodema" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "ctenosaura acanthura" ; Times: 2
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "Pseudemys" ; Times: 1
+	Query: "&#34;Travis County&#34; order:Anura" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "Sphaerodactylus roosevelti" ; Times: 1
+	Query: "ctenosaura hemilopha" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "genus:Gerrhonotus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 3
+	Query: "Chinemys" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "Sphaerodactylus nicholsi" ; Times: 1
+	Query: "pleurodema tucumanum" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "atelopus" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "crotalus (San Bernardino)" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 1
+	Query: "Rhadinaea" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "iguana iguana" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
