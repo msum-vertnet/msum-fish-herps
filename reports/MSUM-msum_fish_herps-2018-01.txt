@@ -1,0 +1,248 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1189
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 86
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 6
+	Date: 2018-01-11 ; Times: 5
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 47
+	Date: 2018-01-24 ; Times: 29
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 6
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 17
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-07 ; Times: 6
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-05 ; Times: 6
+	Date: 2018-01-23 ; Times: 4
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "msu 2640" ; Times: 2
+	Query: "McCargo Cove" ; Times: 1
+	Query: "institutioncode:MSUM" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "family:emydidae institutioncode:MSUM" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 2
+	Query: "genus:Claudius" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "Rana boyle" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "specificepithet:rubra genus:Tantilla stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 2
+	Query: "Bufo simus" ; Times: 2
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "Abudefduf melas" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "specificepithet:rubra genus:Tantilla" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "msu 11914" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 2
+	Query: "sphenodon punctatus" ; Times: 1
+	Query: "msu 11912" ; Times: 1
+	Query: "specificepithet:hidalgoensis" ; Times: 2
+	Query: "family:Emydidae county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Aneides county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "annulata genus:Chionactis" ; Times: 1
+	Query: "Tropidophis melanurus" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 2
+	Query: "Salvadora bairdi" ; Times: 2
+	Query: "specificepithet:heterolepis genus:Sceloporus" ; Times: 2
+	Query: "specificepithet:intermedia genus:siren stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "msu 2296" ; Times: 3
+	Query: "Sceloporus teapensis" ; Times: 2
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "msu 8687" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "specificepithet:hidalgoensis genus:storeria country:&#34;mexico&#34;" ; Times: 2
+	Query: "order:Squamata county:&#34;Fayette&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 2
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "Coleonyx variegatus Sonora Mexico" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "genus:clemmys institutioncode:MSUM" ; Times: 1
+	Query: "Rhadinaea laureata" ; Times: 2
+	Query: "Thecadactylus rapicauda" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Anolis laeviventris" ; Times: 2
+	Query: "family:emydidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 2
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "Claudius angustatus" ; Times: 2
+	Query: "Anolis capito" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "genus:micrurus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "msu 11091" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Masticophis durango" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 2
+	Query: "msu 6295" ; Times: 1
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "chernobyl" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "specificepithet:Occipitomaculata genus:Storeria stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 2
+	Query: "genus:crotalus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "Coniophanes piceivittis" ; Times: 3
+	Query: "institutioncode:msum" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:MSUM" ; Times: 1
+	Query: "stateprovince:&#34;Virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "specificepithet:angustatus genus:Claudius stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "Poecilia sphenops" ; Times: 2
+	Query: "genus:Bufo county:&#34;Walker&#34;" ; Times: 3
+	Query: "msu 9382" ; Times: 1
+	Query: "msu 8093" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "specificepithet:leucostomum genus:kinosternon stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:MSUM" ; Times: 1
+	Query: "genus:Storeria stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "genus:Bufo county:&#34;Walker&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cyrtodactylus peguensis" ; Times: 1
+	Query: "specificepithet:heterolepis genus:Sceloporus stateprovince:&#34;Michoacan&#34;" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 2
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "specificepithet:lugubris genus:Aneides county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "coleonyx variegatus sonora mexico" ; Times: 2
+	Query: "specificepithet:nasicus genus:heterodon hassex:1" ; Times: 1
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "msu 9377" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1398 download events in this period)
+Total number of records downloaded: 2341
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-25 ; Times: 12
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cycloramphus" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "family:emydidae institutioncode:MSUM" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "genus:clemmys institutioncode:MSUM" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "specificepithet:sonoriense genus:kinosternon stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "specificepithet:exsul genus:bufo" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "family:emydidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "locality:TUXPAN stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Rana pipiens stateprovince:&#34;Wisconsin&#34; year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "aneides lugubris" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+
+
+End of report.
