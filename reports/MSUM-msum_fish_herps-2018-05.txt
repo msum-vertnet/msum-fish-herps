@@ -1,0 +1,341 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 6459
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 151
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 37
+	Date: 2018-05-24 ; Times: 31
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 6
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 35
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 2
+	Query: "specificepithet:leptopus genus:Batrachyla institutioncode:MSUM" ; Times: 3
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:coleonyx country:&#34;Honduras&#34;" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "crotalus pricei arizona" ; Times: 1
+	Query: "genus:naja preparations:skeleton" ; Times: 2
+	Query: "tantilla rubra" ; Times: 2
+	Query: "family:xenopeltidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Gerrhonotus imbricatus" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:MSUM" ; Times: 6
+	Query: "institutioncode:MSUM" ; Times: 1
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "barisia skeleton" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:MSUM" ; Times: 3
+	Query: "genus:Pseudotriton order:Caudata county:&#34;Franklin&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:MSUM" ; Times: 5
+	Query: "specificepithet:pipa genus:Pipa institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:MSUM" ; Times: 3
+	Query: "family:Xenopeltidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:MSUM" ; Times: 3
+	Query: "Ophisaurus ceroni" ; Times: 1
+	Query: "family:Boidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Bufo cavifrons" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "liotyphlops albirostris" ; Times: 1
+	Query: "Pseudoeurycea firscheini" ; Times: 3
+	Query: "Heloderma horridum" ; Times: 6
+	Query: "Testudo horsfieldii" ; Times: 2
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:MSUM" ; Times: 3
+	Query: "family:boidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:MSUM" ; Times: 3
+	Query: "Platysternon" ; Times: 1
+	Query: "family:Acrochordidae preparations:skeleton" ; Times: 1
+	Query: "genus:caecilia institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:MSUM" ; Times: 3
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Typhlopidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:MSUM" ; Times: 3
+	Query: "Micrurus elegans" ; Times: 2
+	Query: "ambistoma" ; Times: 1
+	Query: "family:Typhlopidae preparations:skeleton" ; Times: 1
+	Query: "mabuya carinata" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:MSUM" ; Times: 3
+	Query: "genus:Sceloporus county:&#34;Butte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bislineata genus:Eurycea county:&#34;Adams&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:pipiens genus:Rana institutioncode:MSUM" ; Times: 3
+	Query: "Eleutherodactylus laticeps" ; Times: 2
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "limnomedusa macroglossa" ; Times: 2
+	Query: "clonophis kirtlandii indiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:terrapin genus:malaclemys stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:intermedia genus:siren (&#34;ditch&#34;)" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "heloderma horridum" ; Times: 3
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "family:hydrophiidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:MSUM" ; Times: 3
+	Query: "jackson sistrurus" ; Times: 1
+	Query: "family:Acrochordidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:MSUM" ; Times: 3
+	Query: "Bufo cristatus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:MSUM" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:MSUM" ; Times: 3
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "Charina bottae Idaho" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:MSUM" ; Times: 3
+	Query: "country:Ecuador scientificname:Melanosuchus niger " ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;virginia&#34; (&#34;buffalo&#34;)" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:MSUM" ; Times: 3
+	Query: "uma notata skeleton" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:MSUM" ; Times: 4
+	Query: "family:Hydrophiidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "crotalus cerastes sonora" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 1
+	Query: "corallus enydris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:MSUM" ; Times: 3
+	Query: "family:viperidae preparations:skeleton institutioncode:MSUM" ; Times: 2
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:augusti genus:Craugastor institutioncode:MSUM" ; Times: 3
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "kinosternon flavescens arizona" ; Times: 2
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:MSUM" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 155 (out of 1178 download events in this period)
+Total number of records downloaded: 3082
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 6
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 11
+	Date: 2018-05-06 ; Times: 8
+	Date: 2018-05-07 ; Times: 11
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 6
+	Date: 2018-05-09 ; Times: 24
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 8
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 12
+	Date: 2018-05-18 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "genus:farancia sex:male OR female" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 2
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 3
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Gerrhonotus imbricatus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 2
+	Query: "specificepithet:lionotus genus:anolis" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "genus:rhadinaea sex:male OR female" ; Times: 1
+	Query: "specificepithet:muscosa genus:Rana" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Chiropterotriton priscus" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Ophisaurus ceroni" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Bufo cavifrons" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pseudoeurycea firscheini" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "vntype:specimen class:amphibia county:&#34;Oconee&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Eleutherodactylus laticeps" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "genus:urosaurus sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:terrapin genus:malaclemys stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "genus:trimorphodon sex:male OR female" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Bufo cristatus" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Anolis gemmosus" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 2
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Eurycea nana" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "genus:coleonyx sex:male OR female" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
