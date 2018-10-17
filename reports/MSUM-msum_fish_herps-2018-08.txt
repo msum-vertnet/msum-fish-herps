@@ -1,0 +1,296 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 2552
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 101
+	Country: Mexico ; Times: 34
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 5
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-22 ; Times: 16
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-27 ; Times: 3
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 10
+	Date: 2018-08-24 ; Times: 22
+	Date: 2018-08-23 ; Times: 6
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 12
+	Date: 2018-08-06 ; Times: 9
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 8
+	Date: 2018-08-02 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus tepic" ; Times: 1
+	Query: "catalognumber:10751 institutioncode:MSUM" ; Times: 1
+	Query: "pseudoeurycea firscheini" ; Times: 6
+	Query: "catalognumber:12036 institutioncode:MSUM" ; Times: 3
+	Query: "Sphenodon" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "Storeria hidalgoensis" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "MSU 9814" ; Times: 2
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:subocularis genus:Bogertophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "reptilia class:reptilia stateprovince:&#34;Michigan&#34; institutioncode:MSUM" ; Times: 2
+	Query: "reptilia institutioncode:MSUM" ; Times: 3
+	Query: "genus:Macrochelys sex:male OR female" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "catalognumber:10755 institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:henshawi genus:xantusia county:&#34;riverside&#34; year &gt;= 1976 year &lt;= 2019" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "genus:Emys OR Actinemys sex:male OR female" ; Times: 1
+	Query: "catalognumber:1401 institutioncode:MSUM" ; Times: 2
+	Query: "genus:Rhineura county:&#34;Alachua&#34;" ; Times: 1
+	Query: "family:Boidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "institutioncode:MSUM HE HE" ; Times: 2
+	Query: "catalognumber:2775 institutioncode:MSUM" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; institutioncode:MSUM" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "Thamnophis rufipunctatus Durango" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Xenopeltidae preparations:skeleton institutioncode:MSUM" ; Times: 3
+	Query: "preparations:skeleton institutioncode:MSUM" ; Times: 3
+	Query: "Crocodylus moreletii" ; Times: 16
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "catalognumber:11608 institutioncode:MSUM" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 2
+	Query: "catalognumber:10428 institutioncode:MSUM" ; Times: 2
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "class:reptilia locality:Michigan institutioncode:MSUM" ; Times: 2
+	Query: "genus:Gopherus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Rhineura county:&#34;alachua&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "specificepithet:henshawi genus:xantusia county:&#34;riverside&#34; year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 4
+	Query: "horridus north carolina" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "order:Anura country:&#34;Sudan&#34;" ; Times: 4
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "family:viperidae preparations:skeleton institutioncode:MSUM" ; Times: 3
+	Query: "heloderma horridum" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 3
+	Query: "catalognumber:11606 institutioncode:MSUM" ; Times: 2
+	Query: "sceloporus nelsoni copala" ; Times: 1
+	Query: "dicephalic" ; Times: 1
+	Query: "family:Hydrophiidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "catalognumber:12035 institutioncode:MSUM" ; Times: 1
+	Query: "genus:eleutherodactylus stateprovince:&#34;durango&#34;" ; Times: 1
+	Query: "&#34;Michigan&#34; (reptilia) institutioncode:MSUM" ; Times: 1
+	Query: "family:crotalidae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "family:colubridae preparations:skeleton institutioncode:MSUM" ; Times: 2
+	Query: "reptilia and Michigan institutioncode:MSUM" ; Times: 1
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "cyrtodactylus peguensis" ; Times: 1
+	Query: "catalognumber:10754 institutioncode:MSUM" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 6
+	Query: "genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "catalognumber:10427 institutioncode:MSUM" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Acrochordidae preparations:skeleton institutioncode:MSUM" ; Times: 2
+	Query: "family:Typhlopidae preparations:skeleton institutioncode:MSUM" ; Times: 2
+	Query: "specificepithet:sexlineatus genus:Cnemidophorus sex:male OR female" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:MSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 1416 download events in this period)
+Total number of records downloaded: 29624
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 39
+	Country: Denmark ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 6
+	Country: Spain ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 11
+	Date: 2018-08-15 ; Times: 4
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 12
+	Date: 2018-08-08 ; Times: 6
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 5
+	Date: 2018-08-25 ; Times: 8
+	Date: 2018-08-24 ; Times: 15
+	Date: 2018-08-23 ; Times: 9
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-21 ; Times: 8
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-07 ; Times: 7
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-01 ; Times: 6
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "odontophrynus" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; institutioncode:MSUM" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "specificepithet:palmipes genus:Rana" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "family:colubridae preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "genus:Actinemys OR Emys sex:male OR female" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "brazos county agkistrodon" ; Times: 1
+	Query: "plectrohyla matudai" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 6
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "sistrurus" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "sistrurus miliarius texas" ; Times: 2
+	Query: "dicephalic" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "catesbeiana" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:(lemurinus OR bicaorum OR utilensis) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "institutioncode:MSUM HE HE" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Anolis laeviventris" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "genus:Seminatrix OR Liodytes sex:male OR female" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "class:reptilia county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "genus:Emydoidea OR Emys sex:male OR female" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Sistrurus miliarius texas" ; Times: 2
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Sceloporus formosus formosus" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "class:reptilia county:&#34;wake&#34; stateprovince:&#34;north carolina&#34; year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+
+End of report.
