@@ -1,0 +1,190 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 365
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: El Salvador ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 73
+	Country: Sweden ; Times: 6
+	Country: Vietnam ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-18 ; Times: 11
+	Date: 2018-12-30 ; Times: 7
+	Date: 2018-12-15 ; Times: 8
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-12 ; Times: 8
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 10
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-29 ; Times: 3
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "sistrurus jackson" ; Times: 1
+	Query: "Salvadora mexicana colima" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Coniophanes piceivittis Honduras" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; institutioncode:MSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:diadophis stateprovince:&#34;florida&#34; institutioncode:MSUM" ; Times: 2
+	Query: "iguana iguana colima" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 2
+	Query: "Bufo houstonensis" ; Times: 8
+	Query: "genus:diadophis institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "class:Reptilia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "naja naja india" ; Times: 1
+	Query: "genus:diadophis stateprovince:&#34;florida&#34; preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Rhadinaea Guerrero" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Western fence lizard" ; Times: 1
+	Query: "jalisco tarahumarae" ; Times: 1
+	Query: "Drymobius margaritiferus colima" ; Times: 1
+	Query: "Reptilia Mississippi perry" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urosaurus bicarinatus colima" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 2
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "Leptodeira maculata colima" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:stratulus genus:Anolis sex:Male hassex:1" ; Times: 1
+	Query: "genus:Aneides county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Pseudacris streckeri Missouri" ; Times: 1
+	Query: "specificepithet:debilis genus:Bufo class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tarahumarae jalisco" ; Times: 3
+	Query: "Pseudacris Illinoensis" ; Times: 4
+	Query: "specificepithet:ohausi genus:Cycloramphus" ; Times: 1
+	Query: "Imantodes gemmistratus colima" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "specificepithet:tesselatus genus:Cnemidophorus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "bufo marmoreus colima" ; Times: 1
+	Query: "Sceloporus utiformis colima" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 3
+	Query: "Deirochelys texas" ; Times: 2
+	Query: "Clemmys muhlenbergii" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bosque&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen county:&#34;ionia&#34; stateprovince:&#34;michigan&#34; hassex:1" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "genus:Eurycea longicauda melanopleura stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Limnomedusa" ; Times: 2
+	Query: "genus:ensatina county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:thecadactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 809 download events in this period)
+Total number of records downloaded: 3915
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 2
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-03 ; Times: 7
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 13
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "rana blairi" ; Times: 1
+	Query: "genus:Eurycea longicauda longicauda stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Smilisca (Pternohyla) fodiens" ; Times: 2
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "genus:Eurycea lucifuga stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Eurycea longicauda melanopleura stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
