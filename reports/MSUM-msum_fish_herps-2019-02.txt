@@ -1,0 +1,176 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 384
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 32
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 72
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: Hungary ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 9
+	Date: 2019-02-05 ; Times: 9
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-15 ; Times: 16
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-10 ; Times: 8
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-07 ; Times: 12
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 8
+	Date: 2019-02-18 ; Times: 23
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 12
+	Date: 2019-02-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34; preparations:skeleton" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "deirochelys texas" ; Times: 3
+	Query: "multifasciata lampropeltis" ; Times: 2
+	Query: "CM-4601" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 4
+	Query: "specificepithet:lemniscatus genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "GEochelone carbonaria" ; Times: 1
+	Query: "Ceratophrys institutioncode:MSUM" ; Times: 6
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Rhinocheilus county:&#34;archer&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophis cyrtopsis zacatecas" ; Times: 2
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:bairdi genus:salvadora stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "storeria jalisco" ; Times: 1
+	Query: "Ceratophrys country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "bufo cristatus" ; Times: 25
+	Query: "Crocodylus moreletii" ; Times: 15
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Anolis subocularis" ; Times: 1
+	Query: "slender salamander" ; Times: 4
+	Query: "vipera ursinii" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34; year &lt;= 2000" ; Times: 1
+	Query: "conopsis nasus zacatecas" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; Opheodrys vernalis" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:935 institutioncode:MSUM" ; Times: 2
+	Query: "salvadora mexicana" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 11
+	Query: "ceratophrys ar" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 6
+	Query: "Rana sinaloae" ; Times: 1
+	Query: "specificepithet:henshawi genus:Xantusia year &gt;= 1990" ; Times: 1
+	Query: "crotalus zacatecas" ; Times: 2
+	Query: "gavialis" ; Times: 1
+	Query: "jalisco rana (pipiens)" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Tom Green&#34; stateprovince:&#34;Texas&#34; institutioncode:MSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophis cyrtopsis jalisco" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34; institutioncode:MSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis multifasciata" ; Times: 4
+	Query: "bufo perplexus" ; Times: 1
+	Query: "Dendrobates tinctorius" ; Times: 2
+	Query: "Rana zweifeli" ; Times: 1
+	Query: "sceloporus scalaris zacatecas" ; Times: 1
+	Query: "coluber jugularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1227 download events in this period)
+Total number of records downloaded: 788
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 29
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 4
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Echis carinatus" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "deirochelys texas" ; Times: 2
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "Rhinophrynus dorsalis vntype:specimen country:&#34;mexico&#34;" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bufo cristatus" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "ursinii" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "Anolis compressicauda" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "jalisco rana (pipiens)" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "ensatina salamander" ; Times: 1
+
+
+End of report.
