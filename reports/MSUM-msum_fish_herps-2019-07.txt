@@ -1,0 +1,261 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 1047
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 26
+	Country: Guatemala ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 121
+	Country: Macao ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 9
+	Date: 2019-07-18 ; Times: 12
+	Date: 2019-07-08 ; Times: 24
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-13 ; Times: 5
+	Date: 2019-07-10 ; Times: 25
+	Date: 2019-07-11 ; Times: 16
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 8
+	Date: 2019-07-24 ; Times: 4
+	Date: 2019-07-30 ; Times: 5
+	Date: 2019-07-03 ; Times: 15
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsalis genus:Rhinophrynus preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "specificepithet:holbrookii genus:scaphiopus preparations:Skeleton" ; Times: 1
+	Query: "Nerodia erythrogaster neglecta" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "elaphe vulpina wisconsin marathon" ; Times: 1
+	Query: "specificepithet:augusti genus:craugastor preparations:Skeleton" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;coconino&#34;" ; Times: 2
+	Query: "MSU 8107 Urosaurus" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "recordedby:Payne year &gt;= 1961 year &lt;= 1963" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "genus:anolis catalognumber:10428 institutioncode:MSUM" ; Times: 1
+	Query: "caiman;skull" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:ricordii" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 2
+	Query: "Santa Rosa County micrurus" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "institutioncode:MSUM" ; Times: 1
+	Query: "Agalychnis moreletii Mexico" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla preparations:skeleton" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Rhinophrynus preparations:skeleton" ; Times: 2
+	Query: "genus:Anguis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "Cycloramphus dubius" ; Times: 1
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "MSU 7985" ; Times: 1
+	Query: "MSU 7984" ; Times: 1
+	Query: "class:amphibia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 3
+	Query: "Pseudopaludicola ameghini" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:skeleton" ; Times: 1
+	Query: "specificepithet:cinerea genus:hyla preparations:Skeleton" ; Times: 3
+	Query: "specificepithet:squirella genus:Hyla preparations:skeleton" ; Times: 2
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "specificepithet:fodiens genus:smilisca preparations:Skeleton institutioncode:MSUM" ; Times: 2
+	Query: "Rana aurora" ; Times: 2
+	Query: "specificepithet:marnockii genus:Eleutherodactylus preparations:skeleton" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "ambystoma zacatecas" ; Times: 2
+	Query: "specificepithet:squirella genus:Hyla preparations:skeleton institutioncode:MSUM" ; Times: 1
+	Query: "genus:Rhinophrynus preparations:skeleton" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:pipilans" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon" ; Times: 1
+	Query: "rhadinaea taeniata" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 12
+	Query: "(crocodylus porosus OR crocodylus acutus)" ; Times: 1
+	Query: "specificepithet:baudinii genus:smilisca preparations:Skeleton" ; Times: 3
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana preparations:Skeleton" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "specificepithet:fodiens genus:smilisca preparations:Skeleton" ; Times: 1
+	Query: "genus:Thecadactylus specificepithet:rapicauda" ; Times: 1
+	Query: "genus:anolis catalognumber:11606 institutioncode:MSUM" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "specificepithet:crepitans genus:acris preparations:skeleton" ; Times: 2
+	Query: "MSU 7770 Urosaurus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "MSU 7767" ; Times: 1
+	Query: "specificepithet:couchii genus:scaphiopus preparations:Skeleton" ; Times: 2
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 1
+	Query: "genus:sauromalus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lampropeltis multifasciata" ; Times: 1
+	Query: "MSU 7984 boa" ; Times: 1
+	Query: "specificepithet:aurora genus:rana preparations:Skeleton" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:pyromelana county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "MSU 7985 ctenosaura" ; Times: 1
+	Query: "specificepithet:baudinii genus:smilisca preparations:Skeleton institutioncode:MSUM" ; Times: 2
+	Query: "eleutherodactylus zacatecas" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "eximia zacatecas" ; Times: 1
+	Query: "MSU 7762 Sceloporus" ; Times: 2
+	Query: "specificepithet:boylii genus:Rana preparations:skeleton" ; Times: 2
+	Query: "genus:Toluca" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus (helleri)" ; Times: 1
+	Query: "MSU 7770" ; Times: 1
+	Query: "MSU 7767 Sceloporus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;coconino&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 2
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "scaphiopus zacatecas" ; Times: 1
+	Query: "(melanosuchus niger)" ; Times: 1
+	Query: "elaphe dione" ; Times: 1
+	Query: "hyla zacatecas" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne preparations:skeleton" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "specificepithet:kirtlandii family:Colubridae country:&#34;United States&#34;" ; Times: 1
+	Query: "augusti zacatecas" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;illinois&#34; AND (NOT platirhinos)" ; Times: 1
+	Query: "genus:anolis catalognumber:10427 institutioncode:MSUM" ; Times: 1
+	Query: "Lampropeltis Arizona pima" ; Times: 1
+	Query: "contortrix stateprovince:&#34;Ohio&#34;" ; Times: 4
+	Query: "specificepithet:olivacea genus:Gastrophryne preparations:skeleton" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 1
+	Query: "specificepithet:augusti genus:craugastor preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Bufo retiformis Arizona pima" ; Times: 1
+	Query: "recordedby:Payne year &gt;= 1962 year &lt;= 1962 month &gt;= 2 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:boylii genus:rana preparations:skeleton" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus preparations:Skeleton institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:Pyromelana county:&#34;coconino&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla preparations:skeleton" ; Times: 1
+	Query: "MSU 7769 Sceloporus" ; Times: 1
+	Query: "specificepithet:fodiens genus:smilisca preparations:skeleton" ; Times: 2
+	Query: "genus:Dermatemys specificepithet:mawii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 985 download events in this period)
+Total number of records downloaded: 1220
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Peru ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 6
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-30 ; Times: 12
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:propinqua genus:Holbrookia" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Crotalus horridus and pennsylvania" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "class:Reptilia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:hirtipes genus:Kinosternon stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Smilisca fodiens" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Chamaeleo country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:sonoriense genus:kinosternon" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis" ; Times: 1
+	Query: "specificepithet:brevis genus:Coleonyx" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+
+
+End of report.
