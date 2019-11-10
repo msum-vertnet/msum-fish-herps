@@ -1,0 +1,272 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 256
+Number of records retrieved in searches: 2265
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 221
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Argentina ; Times: 3
+	Country: Panama ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 6
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-12 ; Times: 8
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 12
+	Date: 2019-09-19 ; Times: 7
+	Date: 2019-09-30 ; Times: 29
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-03 ; Times: 15
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-01 ; Times: 4
+	Date: 2019-09-07 ; Times: 5
+	Date: 2019-09-06 ; Times: 30
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 18
+	Date: 2019-09-21 ; Times: 5
+	Date: 2019-09-20 ; Times: 13
+	Date: 2019-09-23 ; Times: 7
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 9
+	Date: 2019-09-24 ; Times: 17
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-28 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "catalognumber:2233 institutioncode:msum" ; Times: 2
+	Query: "msum 4371" ; Times: 2
+	Query: "catalognumber:3522 institutioncode:msum" ; Times: 2
+	Query: "msum 4373" ; Times: 3
+	Query: "msum 4372" ; Times: 2
+	Query: "thamnophis butleri milwaukee" ; Times: 4
+	Query: "msum 4379" ; Times: 2
+	Query: "Rhinoderma darwinii" ; Times: 3
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2231 institutioncode:msum" ; Times: 2
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "genus:Charina class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:MSUM" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "genus:Philoria specificepithet:frosti" ; Times: 1
+	Query: "eleutherodactylus longipes" ; Times: 1
+	Query: "catalognumber:2254 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1961 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:MSUM" ; Times: 5
+	Query: "Anilius scytale" ; Times: 1
+	Query: "leptodactylus ocellatus fluid institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "Deirochelys reticularia stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Deirochelys reticularia miaria" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 6
+	Query: "specificepithet:cystignathoides genus:Eleutherodactylus year &gt;= 1800 year &lt;= 1965" ; Times: 1
+	Query: "genus:Charina county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "graptemys skeletal" ; Times: 1
+	Query: "Leptodactylus ocellatus preparations:skeleton institutioncode:MSUM" ; Times: 2
+	Query: "specificepithet:altae genus:Eleutherodactylus" ; Times: 1
+	Query: "Ophisaurus ceroni" ; Times: 1
+	Query: "catalognumber:2449 institutioncode:msum" ; Times: 2
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "phyllodactylus colima" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:MSUM" ; Times: 3
+	Query: "punctatus specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2374 institutioncode:msum" ; Times: 2
+	Query: "genus:Trachemys institutioncode:MSUM" ; Times: 1
+	Query: "butleri wisconsin thamnophis" ; Times: 1
+	Query: "butleri wisconsin" ; Times: 1
+	Query: "bufo perplexus" ; Times: 1
+	Query: "Rhinoderma darwinii institutioncode:MSUM" ; Times: 1
+	Query: "Cortijo" ; Times: 1
+	Query: "Pinotepa" ; Times: 1
+	Query: "rhinoderma darwinii fluid institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:MSUM" ; Times: 5
+	Query: "anilius scytale" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "acris blanchardi michigan" ; Times: 1
+	Query: "catalognumber:3451 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:hammondii genus:scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;mexico&#34;" ; Times: 2
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "catalognumber:499 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1969 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 2
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MSUM" ; Times: 1
+	Query: "catalognumber:3806 institutioncode:MSUM" ; Times: 1
+	Query: "genus:Charina class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: "catalognumber:3457 institutioncode:msum" ; Times: 2
+	Query: "msum 3806" ; Times: 2
+	Query: "rhinoderma darwinii institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "leptodactylus ocellatus institutioncode:MSUM" ; Times: 1
+	Query: "Leptodactylus institutioncode:MSUM" ; Times: 2
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:MSUM" ; Times: 5
+	Query: "catalognumber:4381 institutioncode:MSUM" ; Times: 1
+	Query: "catalognumber:4113 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:iguana genus:Iguana country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "catalognumber:4380 institutioncode:MSUM" ; Times: 1
+	Query: "Leptodactylus ocellatus institutioncode:MSUM" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Anderson&#34;" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "inornatus coconino" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "genus:Clonophis stateprovince:&#34;Indiana&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "institutioncode:msum" ; Times: 1
+	Query: "genus:eleutherodactylus stateprovince:&#34;san luis potosi&#34;" ; Times: 1
+	Query: "illinoensis Pseudacris" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2450 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:hammondii genus:scaphiopus" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:MSUM" ; Times: 5
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "cacahuatepec" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "lampropeltis ruthveni" ; Times: 2
+	Query: "catalognumber:4379 institutioncode:MSUM" ; Times: 3
+	Query: "Ambystoma tigrinum" ; Times: 6
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "msum 3456" ; Times: 2
+	Query: "genus:Caiman institutioncode:MSUM" ; Times: 1
+	Query: "specificepithet:compactilis family:bufonidae stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 3
+	Query: "Eleutherodactylus nitidus" ; Times: 2
+	Query: "genus:Epicrates stateprovince:&#34;Puerto Rico&#34; AND (NOT molei)" ; Times: 1
+	Query: "msum 4381" ; Times: 2
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "gbifdatasetid:847bbbde-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "msum 14391" ; Times: 2
+	Query: "msum 14390" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MSUM" ; Times: 3
+	Query: "msum 14392" ; Times: 2
+	Query: "catalognumber:3525 institutioncode:msum" ; Times: 2
+	Query: "Eumeces obsoletus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:505 institutioncode:msum" ; Times: 2
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:MSUM" ; Times: 11
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1073 download events in this period)
+Total number of records downloaded: 686
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 33
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "specificepithet:ochrophaeus genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1940 year &lt;= 1994" ; Times: 1
+	Query: "inornatus coconino" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;MISSOURI&#34; institutioncode:MSUM" ; Times: 1
+	Query: "Jamiltepec" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "graptemys pulchra alabama" ; Times: 2
+	Query: "monte escobedo" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Juchatengo" ; Times: 1
+	Query: "cacahuatepec" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "Pinotepa" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+
+
+End of report.
