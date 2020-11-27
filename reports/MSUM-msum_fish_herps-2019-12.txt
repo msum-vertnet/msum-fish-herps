@@ -1,0 +1,139 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 48
+	Country: Vietnam ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 5
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 7
+	Date: 2019-12-02 ; Times: 8
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ctenosaura texas" ; Times: 2
+	Query: "hemidactylus mexico mexico" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "msum 13679" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "leptodeira maculata mexico" ; Times: 2
+	Query: "sceloporus torquatus zacatecas" ; Times: 2
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops institutioncode:MSUM" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "tantilla bocourti mexico" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Tantilla+rubra" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 2
+	Query: "country:Ecuador scientificname:Iguana iguana " ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Lampropeltis multifasciata" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 3
+	Query: "specificepithet:horsfieldii genus:testudo" ; Times: 7
+	Query: "rhadinaea taeniata mexico" ; Times: 3
+	Query: "rhadinaea taeniata" ; Times: 1
+	Query: "cryptobranchus georgia" ; Times: 5
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Limnomedusa" ; Times: 1
+	Query: "specificepithet:planispina genus:Atelopus" ; Times: 2
+	Query: "specificepithet:curtus genus:Python" ; Times: 3
+	Query: "cnemidophorus deppei mexico" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 596 download events in this period)
+Total number of records downloaded: 616
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 8
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:monticola genus:Liolaemus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor country:&#34;México&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Valle Nacional Oaxaca" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
