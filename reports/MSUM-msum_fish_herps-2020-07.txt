@@ -1,0 +1,225 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 829
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 105
+	Country: Guatemala ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 17
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 19
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-29 ; Times: 12
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-10 ; Times: 4
+	Date: 2020-07-30 ; Times: 50
+	Date: 2020-07-31 ; Times: 8
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "Cycloramphus asper" ; Times: 1
+	Query: "rana crassa" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:poinsettii genus:Sceloporus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:phrynosoma stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 4
+	Query: "institutioncode:MSUM" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "crotalus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:punctatus genus:bufo stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 4
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 3
+	Query: "MSU 7087" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Pseudoeurycea lineolus" ; Times: 2
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Crotalus lepidus klauberi durango" ; Times: 1
+	Query: "specificepithet:cavifrons family:bufonidae" ; Times: 1
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "Crocodylus acutus 2015" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 2
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "continent:africa recordedby:simmons" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 17
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 3
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Pseudoeurycea firscheini" ; Times: 2
+	Query: "Anolis grahami preparations:skeleton" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana county:&#34;Douglas&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 3
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "family:Scincidae class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 4
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34;" ; Times: 2
+	Query: "specificepithet:ruthveni genus:Lampropeltis" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 3
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "specificepithet:grahamii institutioncode:MSUM" ; Times: 2
+	Query: "Plethodon serratus" ; Times: 2
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Cycloramphus ohausi" ; Times: 1
+	Query: "Tamuin San Luis Potosi" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Bufo stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Crotalus scutulatus CHIHUAHUA" ; Times: 1
+	Query: "coleonyx elegans mexico" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "Crotalus klauberi Zacatecas" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 2
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;OREGON&#34;" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "specificepithet:cristatus family:bufonidae" ; Times: 1
+	Query: "Chiropterotriton priscus" ; Times: 3
+	Query: "Bolitoglossa platydactyla" ; Times: 3
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "5867 ecuador" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 940 download events in this period)
+Total number of records downloaded: 5525
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 34
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-31 ; Times: 12
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:perplexus family:bufonidae" ; Times: 1
+	Query: "specificepithet:coccifer family:bufonidae" ; Times: 1
+	Query: "specificepithet:cavifrons family:bufonidae" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (contortrix)" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cristatus family:bufonidae" ; Times: 1
+	Query: "specificepithet:occidentalis family:bufonidae" ; Times: 1
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ricordii&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 3
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:canaliferus family:bufonidae" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "genus:notophthalmus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "class:Amphibia country:&#34;El Salvador&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+
+
+End of report.
