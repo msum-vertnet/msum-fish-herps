@@ -1,0 +1,172 @@
+Report for Institution Code MSUM, Resource msum_fish_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-29 ; Times: 11
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "storeria storerioides" ; Times: 1
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:MSUM" ; Times: 2
+	Query: "specificepithet:Fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;Siskiyou&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "Graptemys geographica Indiana" ; Times: 1
+	Query: "CROTALUS TRISERIATUS" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:MSUM" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Crotalus pricei arizona" ; Times: 1
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "crotalus lepidus klauberi durango" ; Times: 2
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1976 year &lt;= 2020" ; Times: 1
+	Query: "estiron ampiyacu" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:MSUM" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Veracruz&#34;" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1981 year &lt;= 2020" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Keya Paha&#34; stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:university of michigan museum of zoology" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:wirshingi genus:Phyllodactylus institutioncode:MSUM" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1961 year &lt;= 1965" ; Times: 1
+	Query: "genus:leptodeira stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;imperial&#34;" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:MSUM" ; Times: 2
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 5
+	Query: "crotalus lepidus rancho santa barbara" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 976 download events in this period)
+Total number of records downloaded: 2638
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 28
+	Country: Uganda ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-22 ; Times: 6
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "&#34;Bufo boreas&#34; vntype:specimen stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Gambusia" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "order:Charadriiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "micrurus elegans" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "storeria storerioides" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "Rhadinaea taeniata" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "class:Reptilia locality:Cuyabeno country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+
+
+End of report.
